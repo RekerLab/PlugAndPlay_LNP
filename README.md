@@ -9,12 +9,15 @@
 
 ## Citation
 ```bibtex
-@article{han2025plug,
-  title={Plug-and-play assembly of biodegradable ionizable lipids for potent mRNA delivery and gene editing in vivo},
-  author={Han, Xuexiang and Xu, Ying and Ricciardi, Adele and Xu, Junchao and Palanki, Rohan and Chowdhary, Vivek and Xue, Lulu and Gong, Ningqiang and Alameh, Mohamad-Gabriel and Pereanteau, William and others},
-  journal={bioRxiv},
-  pages={2025--02},
-  year={2025},
-  publisher={Cold Spring Harbor Laboratory}
+@article {Han2025plug,
+	author = {Han, Xuexiang and Xu, Ying and Ricciardi, Adele and Xu, Junchao and Palanki, Rohan and Chowdhary, Vivek and Xue, Lulu and Gong, Ningqiang and Alameh, Mohamad-Gabriel and Peranteau, William H. and Wilson, James M. and Weissman, Drew and Mitchell, Michael J.},
+	title = {Plug-and-play assembly of biodegradable ionizable lipids for potent mRNA delivery and gene editing in vivo},
+	elocation-id = {2025.02.25.640222},
+	year = {2025},
+	doi = {10.1101/2025.02.25.640222},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2025/03/01/2025.02.25.640222},
+	eprint = {https://www.biorxiv.org/content/early/2025/03/01/2025.02.25.640222.full.pdf},
+	journal = {bioRxiv}
 }
 ```
